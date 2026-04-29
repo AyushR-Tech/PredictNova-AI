@@ -1,4 +1,4 @@
-# 🎓 Student Performance System
+# 🎓 PredictNova AI
 
 A **Flask web application** that predicts student exam scores based on:
 - 📚 Study habits  
